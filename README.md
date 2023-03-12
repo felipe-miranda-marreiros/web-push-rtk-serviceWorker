@@ -13,3 +13,8 @@ node index.js
 // Front
 npm run dev
 ```
+
+Endpoint
+```
+http://localhost:3000/send-notification
+```
